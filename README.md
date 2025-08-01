@@ -15,33 +15,24 @@
 
 > ## 技术栈
 >
-> 后端：SpringBoot框架
+> 后端：SpringBoot
 > 
-> 前端:Vue+Uniapp
+> 前端:Vue
 > 
 > 数据库：MySQL
 ## 实现页面截图 
 
+<img width="1466" height="764" alt="首页" src="https://github.com/user-attachments/assets/9419c9d3-aabc-42ae-ba2f-50005787bd21" />
+<img width="1467" height="764" alt="下单" src="https://github.com/user-attachments/assets/8bcd335a-92fb-4407-a6a4-78c332c10ab3" />
 
-![](https://i-blog.csdnimg.cn/direct/a77d3f1061284736973d5a01050aba0d.png)
-![](https://i-blog.csdnimg.cn/direct/cdbd31e44e354e009e8c1142f9e9006b.png)
+<img width="1473" height="764" alt="后台商品信息管理" src="https://github.com/user-attachments/assets/d8086fe3-a2ee-4455-90fb-18b84446d547" />
 
-![](https://i-blog.csdnimg.cn/direct/3a498c66b4134a1e9291e8d11187eeaa.png)
-![](https://i-blog.csdnimg.cn/direct/2e6726a2007d4b07a91b81a960efacd1.png)
-![](https://i-blog.csdnimg.cn/direct/3a38d31e38ff4df9828f884952ae8414.png)
-![](https://i-blog.csdnimg.cn/direct/35fb8619d11a4f819df85b93ab9230cb.png)
-![](https://i-blog.csdnimg.cn/direct/ac00fcb0700d487fa18c980a1922129e.png)
-
-![](https://i-blog.csdnimg.cn/direct/f974034d94814e1f88b801bf22137590.png)
-![](https://i-blog.csdnimg.cn/direct/0e7b0e5086e04d3c8cb294c909f1eb19.png)
 
 
 ## 文章参考
 
-![](https://i-blog.csdnimg.cn/direct/215876d0e2dd4e6a832744a829f348ed.png)
+<img width="1376" height="765" alt="文档" src="https://github.com/user-attachments/assets/7852f30f-f107-43bb-ba9b-2a160e1c53de" />
 
-
-![](https://i-blog.csdnimg.cn/direct/2a64382a2ee64470a0c8b18c508ce565.png)
 
 
 
